@@ -1,0 +1,1 @@
+Your attention is your rights. Don't let anyone own your time without your consent. A desktop tray application built with Electron and React JS and uses Google Custom Search.
